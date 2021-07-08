@@ -4,7 +4,7 @@
 <head>
 
 	<!--begin::Base Path (base relative path for assets of this page) -->
-	<title>Monitoring</title>
+	<title>Pasar 20</title>
 	<!--end::Base Path -->
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
